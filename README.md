@@ -99,7 +99,7 @@ This project demonstrates:
 ---
 
 ## 📌 Author
-**Runka**  
+**Debolina Sorkhel**  
 Aspiring Data Analyst | Excel VBA | SQL | Power BI
 
 ---
